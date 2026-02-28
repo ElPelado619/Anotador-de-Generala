@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Dado con fondo blanco y bordes redondeados -->
+  <rect x="5" y="5" width="90" height="90" rx="15" fill="white" stroke="#333" stroke-width="3"/>
+  
+  <!-- Puntos del dado (mostrando un 5) -->
+  <circle cx="25" cy="25" r="7" fill="#333"/>
+  <circle cx="75" cy="25" r="7" fill="#333"/>
+  <circle cx="50" cy="50" r="7" fill="#333"/>
+  <circle cx="25" cy="75" r="7" fill="#333"/>
+  <circle cx="75" cy="75" r="7" fill="#333"/>
+</svg>
